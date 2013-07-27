@@ -1,0 +1,1022 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: lyqFgX4hwzRpTUH1CU8usfE5hh0=
+
+Name: res/drawable-hdpi/merge_calls_disable.png
+SHA1-Digest: Ydk4c88967ZBgBDSKVUpNWe/Fqg=
+
+Name: res/drawable-hdpi/htc_pin_asset_pressed.9.png
+SHA1-Digest: ZtVygtZA6gOnJlC6wZFC2YV1n0Y=
+
+Name: res/drawable/phone_icon_headset.xml
+SHA1-Digest: FzRIUbq+BJZhoLDVKptMJ3u8nJw=
+
+Name: res/drawable-hdpi/phone_icon_contactcard_disabled.png
+SHA1-Digest: ZrZyxQNpEZ98l9fSYj4dentiCXY=
+
+Name: res/xml/htc_worldphone_options.xml
+SHA1-Digest: NZG8TjNoaeJ6JoZe8sRyQA84QX0=
+
+Name: res/drawable-land-hdpi/phone_default.png
+SHA1-Digest: Iz2AOJSWPG3B5YFCCTRdPAshTiM=
+
+Name: res/drawable-hdpi/icon_menu_speaker_on.png
+SHA1-Digest: wpG4/eQQP03vL+hUIjyGOSyjcXs=
+
+Name: res/drawable-hdpi/stat_sys_phone_call_ringing.png
+SHA1-Digest: +zazPylfi9PolRaMwWi3cIX8cg8=
+
+Name: res/layout/delete_fdn_contact_screen.xml
+SHA1-Digest: +dHuKMhWfPAtOPF0flGQzL1Hi1o=
+
+Name: res/xml/eri_text_appwidget.xml
+SHA1-Digest: 3LjZcj4bE3Lle1/7Uqu8NwUc1d4=
+
+Name: res/menu/incall_screen_menu.xml
+SHA1-Digest: mCHnsOhTuijjbJqV3i+/ZLq6eX4=
+
+Name: res/drawable-finger/notification_btn_endcall.xml
+SHA1-Digest: e87Lszyj6fSvFhuW5MdX6Egxy8w=
+
+Name: res/drawable/phone_btn_cancel.xml
+SHA1-Digest: pl3zjvgnD9sSaN8LGF6S/YiwCQw=
+
+Name: res/drawable/common_icon_contacts.xml
+SHA1-Digest: Ck7kD48LJtgf5MN6J7ykw78dJxU=
+
+Name: res/layout/otacall_card.xml
+SHA1-Digest: KuFLP5wlx3WOv/QVCM2IchGMQEc=
+
+Name: res/layout-hdpi/ongoing_call_notification_2.xml
+SHA1-Digest: RXMQjE6ImqYfazlAKx8WEVnHPzQ=
+
+Name: res/drawable-hdpi/stat_sys_phone_call.png
+SHA1-Digest: 47ItccwOsK93PBZfCjDWnXlxou4=
+
+Name: res/drawable-hdpi/phone_bg_facebook.9.png
+SHA1-Digest: c8ac5i8Hwhd54MRAYnuthBNU1Jo=
+
+Name: res/drawable-hdpi/phone_btn_end_pressed.9.png
+SHA1-Digest: gyuOgnVd/J3Xbk0OK4jyJJyZE8U=
+
+Name: res/drawable-hdpi/phone_end_rest.9.png
+SHA1-Digest: aYnOPkD1kWDD+M/J1uhQRjt+rBU=
+
+Name: res/drawable-hdpi/icon_menu_end_call.png
+SHA1-Digest: JVzB2Hm0MHJtXy7zDXZE+XbX+JM=
+
+Name: res/drawable-hdpi/phone_reflection_mask.png
+SHA1-Digest: 5fvV10FGfx02gf2RTZY59L8qlR4=
+
+Name: res/layout/htc_list_item_separator_middle.xml
+SHA1-Digest: bD/wwvOuWs29OSs+s2d3UAMJDsI=
+
+Name: res/drawable-hdpi/stat_sys_vp_phone_call.png
+SHA1-Digest: c1fOk1+ozmYnmm/AGJe+VCunLrc=
+
+Name: res/xml/callforward_options.xml
+SHA1-Digest: BRLHSLag4OGn5ezeUISA3WDSqcM=
+
+Name: res/layout/pref_dialog_editmessage.xml
+SHA1-Digest: Mj9hTX/dtEUg7qTpvBw/Fs31G8Y=
+
+Name: res/drawable-hdpi/contacts_sp_on.png
+SHA1-Digest: veUB/4F7r6oThWw+1RpcBwB1SBw=
+
+Name: res/drawable-hdpi/phone_icon_bluetooth_headset_rest.png
+SHA1-Digest: nMosBibpy5zjNEEDA1n4tmUK58I=
+
+Name: res/layout/htc_call_defer.xml
+SHA1-Digest: wGeqytY8fxbX+TovHcUi1birMIA=
+
+Name: res/drawable-hdpi/lockscreen_avatar.png
+SHA1-Digest: /votgjRdD2XrKNBsr4QaXkwleS0=
+
+Name: res/drawable-hdpi/htc_pin_icon_plus.png
+SHA1-Digest: O5Ut7n+5CT4X8tN36T8p4f3/3XQ=
+
+Name: res/layout/enable_sim_pin_screen.xml
+SHA1-Digest: zX0YYEf4FvjrHFxs3pPjTn/+ht0=
+
+Name: res/drawable-hdpi/add_call_pressed.png
+SHA1-Digest: 2bVAnJfV0ekYwbRRbTUHvB1qGM0=
+
+Name: res/xml/gsm_umts_additional_options.xml
+SHA1-Digest: 1Hoym+Kderl6npw4Qaui392KJE8=
+
+Name: res/layout/sim_ndp.xml
+SHA1-Digest: p+5XBDEVRBhyd6+mWBWvfTYPVE0=
+
+Name: res/drawable-hdpi/simlock_ok_rest.9.png
+SHA1-Digest: I5HiohbteZGDv94xst+Cb0I0eJg=
+
+Name: res/layout/emergency_keypad.xml
+SHA1-Digest: +CIce897pM6XNg/fBM6MngFTrVo=
+
+Name: res/drawable-land-hdpi/phone_default_incall.png
+SHA1-Digest: M1aE85OmA0zBar6etvqkwjnXqY0=
+
+Name: res/xml/data_usage_settings.xml
+SHA1-Digest: 4SwFvNn/3iJArH8+gqi8EdLFPvw=
+
+Name: res/drawable-hdpi/audio_icon.png
+SHA1-Digest: 5LQ4gcGU2KesKDtqvfkN/A9WjSo=
+
+Name: res/layout/htc_otasp.xml
+SHA1-Digest: Woq7SHTr9ijWxvZxTNubY9k7liA=
+
+Name: res/drawable-hdpi/mute_disable.png
+SHA1-Digest: fWfSm/r9gkMrQrEfr0DGLNVAhbo=
+
+Name: res/drawable-hdpi/common_icon_glance_volume_rest.png
+SHA1-Digest: p8bL47nQrj2F/IYYgecwe8gjFWU=
+
+Name: res/layout/cmd_bar_7.xml
+SHA1-Digest: kz1FAeh0qN7VcORzTLXoNhwZ7xk=
+
+Name: res/layout/htc_cdma_data_roam_guard.xml
+SHA1-Digest: dvCcsststkeClS438YaAqrr7fh8=
+
+Name: res/drawable/phone_btn_defer.xml
+SHA1-Digest: ZObYr5Wsu5s7kOo9V74r1oyngV4=
+
+Name: res/drawable/phone_icon_hold.xml
+SHA1-Digest: 8vqpmRU4C7+RiV1cd52cXKmYytQ=
+
+Name: res/drawable-hdpi/simlock_cancel_rest.9.png
+SHA1-Digest: zIN2Cp9cmQDpfhCzFZUNvntrpow=
+
+Name: res/xml/phone_preference.xml
+SHA1-Digest: 3JrPB4oB8s2J0wLOzcfVv+sOJKo=
+
+Name: res/layout/htc_sim_unlock_keypad.xml
+SHA1-Digest: gQ9dL2jSNf1farFXuB8kOtPrIxE=
+
+Name: res/drawable-hdpi/add_call_disable.png
+SHA1-Digest: Toz4K0VbFAE0pJW261mx/c0dyZM=
+
+Name: res/xml/htc_worldphone_call_options.xml
+SHA1-Digest: CsQwBIO2y32TuBRQRL01JHBMFqQ=
+
+Name: res/drawable-hdpi/phone_end_pressed.9.png
+SHA1-Digest: I52DpKv8jU8GV7cIam83u5grbX4=
+
+Name: res/drawable/phone_btn_endcall.xml
+SHA1-Digest: +G6kIKPcQci/BshPXZG2wvKf6DM=
+
+Name: res/drawable-hdpi/end_held_call_pressed.png
+SHA1-Digest: ilTqpZj/dSrKV2e8NfMEzgz+wd8=
+
+Name: res/xml/htc_feature_plugin_cdma_assissted_dialing.xml
+SHA1-Digest: exaDKpwPEME+mL+yrgVmn5T+4Mw=
+
+Name: res/xml/sip_edit.xml
+SHA1-Digest: bZSw/PnefA29f5YnPSYcTFSE8vk=
+
+Name: res/layout/htc_multiple_conference_call_item.xml
+SHA1-Digest: li/ExFSLizATqsQ0jh3Nwhq0Xsw=
+
+Name: res/xml/gsm_umts_options.xml
+SHA1-Digest: y2iz6emcSqFWAwnpC4iOUbYp9as=
+
+Name: res/drawable-hdpi/phone_caller_id_panel.png
+SHA1-Digest: qsiWdSq3BJ0we6QhsOIyZsrSmWE=
+
+Name: res/layout/sn_status_panel.xml
+SHA1-Digest: 3E6GUFKXAmFNcpmLbkvbO6rUxDM=
+
+Name: res/drawable/common_icon_all_people.xml
+SHA1-Digest: uj2+m6t4H/VYBskNuHqBgAnAcj8=
+
+Name: res/xml/carrier_select.xml
+SHA1-Digest: XcyKH99mq/9nOkgL9MEIC9l3dyM=
+
+Name: res/xml/htc_cdma_updater_settings.xml
+SHA1-Digest: 2dLTuj8+zD7pvN8iyBJG3ftO92c=
+
+Name: res/drawable/common_icon_show_keypad.xml
+SHA1-Digest: WsjpdM73lyM57rs2xY9a0Jtc+Js=
+
+Name: res/drawable/phone_icon_bt_headset.xml
+SHA1-Digest: 5pSYOPD3T+sP1cgbXoGhQyqpC0o=
+
+Name: res/drawable-hdpi/phone_bg_keypad.png
+SHA1-Digest: r5onGtLlST8fE/8+pWShz8F6WFo=
+
+Name: res/anim/touch_lock_fade_in.xml
+SHA1-Digest: iFKDrOhMqMc3THBNwPZ1e+GEhCE=
+
+Name: res/layout/pref_dialog_edit_enhanced_plus_code_prefix.xml
+SHA1-Digest: Iwv/hwsk6QG6kybXj85llM4CGOw=
+
+Name: res/drawable-hdpi/ic_menu_contact.png
+SHA1-Digest: 3UpuHPHgogwC1mtT3yyNxAcFPP4=
+
+Name: res/layout/adn_list.xml
+SHA1-Digest: 4T0DhZsr/oO+IyvsgRpcEszpcVA=
+
+Name: res/layout/editor_in_dialog.xml
+SHA1-Digest: UVKWabzI2A+VMK4/wCgOPBzHpaA=
+
+Name: res/drawable/phone_icon_backspace.xml
+SHA1-Digest: eT0tHM1lVkwXGg3Yfe/KYGcorwU=
+
+Name: res/drawable-hdpi/phone_icon_headset_on.png
+SHA1-Digest: knpOi1DUuozgAGrkdbYIiXpQ/7E=
+
+Name: res/drawable-hdpi/common_search_select_btn_pressed.9.png
+SHA1-Digest: 02ZAhjJ6267hDcNalMtcv8Hxmzw=
+
+Name: res/drawable-hdpi/common_select_photo_pressed.png
+SHA1-Digest: qWos24LH05AjdDL+nLEI8n26UBI=
+
+Name: res/drawable/phone_icon_addcontact.xml
+SHA1-Digest: W/fFCVaNEM+zzccBBxNwVKpn200=
+
+Name: res/drawable-hdpi/phone_default.png
+SHA1-Digest: K8JuVhJjgWuRXOdg0XUBjx9qWkU=
+
+Name: res/drawable-hdpi/phone_button_acc_call_rest.9.png
+SHA1-Digest: DLMT9YVIslgi8UHhoUaP9kRgqYY=
+
+Name: res/layout/htc_multiple_and_conference.xml
+SHA1-Digest: huaNX8X3skmPUBtMUJEa1zVvlNk=
+
+Name: res/drawable-hdpi/mute_on.png
+SHA1-Digest: KODN5hoHrxJvp7FT4E2w1SW3AAo=
+
+Name: res/drawable-hdpi/icon_menu_speaker_off.png
+SHA1-Digest: 2aQIdnoIoObN2LrdmJvB+l/8siI=
+
+Name: res/drawable/phone_icon_add_call.xml
+SHA1-Digest: c7z2pTIYr7THaIbT6VVYYcnJ4hw=
+
+Name: res/layout/pref_dialog_editnumbers.xml
+SHA1-Digest: 5DLRy7okW62JeAxGMZ3Oc8yqnYU=
+
+Name: res/xml/mip_error.xml
+SHA1-Digest: Sy6SPXdPT+skmC+qiocq8udhqLU=
+
+Name: res/layout/htc_audio_src_selection.xml
+SHA1-Digest: ywUdcGfmVMBecmHTmvk5VT2qm4o=
+
+Name: res/xml/network_setting.xml
+SHA1-Digest: wJuI25QiJkb2LfTjsvXjYdXo2B4=
+
+Name: res/layout/skype_fake_arc.xml
+SHA1-Digest: AzSPFIgkRmpY5y4/UCk7V9BMF7o=
+
+Name: res/drawable-hdpi/lockscreen_bigicon_misscall.png
+SHA1-Digest: caplb2L4tp4ozOwwSrJ3MhyWnng=
+
+Name: res/layout/dtmf_display.xml
+SHA1-Digest: 15kAXx1AmZRqJJglfEtI4CYKz/I=
+
+Name: res/drawable-hdpi/phone_photo_frame.png
+SHA1-Digest: mH0qR91oYhQWAra6/7qqoEC2GN0=
+
+Name: res/xml/manual_carrier_select.xml
+SHA1-Digest: tUsEoAF+oy9adoSCcbDhHjAzGRk=
+
+Name: res/drawable-hdpi/simlock_cancel_selected.9.png
+SHA1-Digest: coC/4XtpYxf9TTTGZo2hBaXz/aw=
+
+Name: res/drawable-hdpi/merge_calls_pressed.png
+SHA1-Digest: 8EuSZh9xxQoB282TWRlX/tftE9U=
+
+Name: res/drawable/hide_keypad.xml
+SHA1-Digest: agGDqeeRURL/VWvhANQjYiV+m+g=
+
+Name: res/drawable/common_icon_add_call.xml
+SHA1-Digest: HLQONefQ4VkdU5zAYnc39KyBNiM=
+
+Name: res/layout/htc_cdmacallguard.xml
+SHA1-Digest: 5IPVfMVDmXAIDtYLgifCp5N71FM=
+
+Name: res/layout/htc_assisted_dialing.xml
+SHA1-Digest: 7IDd+Lnm37YDlpZvezUm03bpV4Q=
+
+Name: res/drawable-hdpi/merge_calls_rest.png
+SHA1-Digest: hTjoFk9AASG7s3xfxSHPkQqJxrg=
+
+Name: res/layout/common_button_bar.xml
+SHA1-Digest: 6FPbBqfnr1LWB9YJVvVUzupcT7A=
+
+Name: res/layout/manual_nai_setup_dialog.xml
+SHA1-Digest: wWE+rpUvp5FFb3BOk9Wh4yqQ6GA=
+
+Name: res/layout-hdpi/status_bar_latest_event_content_cs_cf.xml
+SHA1-Digest: f+W4nAnWAjcdMzzjyizcXCOroVU=
+
+Name: res/xml/htc_cdma_roaming_guard_list.xml
+SHA1-Digest: fvY52Y8nspBz6D1wZ6CNMn7z1lQ=
+
+Name: res/drawable-hdpi/phone_notification_on.png
+SHA1-Digest: P277noMFeFj1q2F9TZQscFzqNHM=
+
+Name: res/drawable/phone_icon_merge_calls.xml
+SHA1-Digest: lBUCQG7OqLNdJ99pkXzGGhMGacg=
+
+Name: res/layout/pref_dialog_editphonenumber.xml
+SHA1-Digest: sZXT/Qciykx/yWKdVts5wP4v9Ro=
+
+Name: res/layout/call_card.xml
+SHA1-Digest: LfulaafDYF56xNmNL8W07QR3hMI=
+
+Name: res/drawable-hdpi/ic_menu_call.png
+SHA1-Digest: u3yBFKMo7Xb5keIGARLciO5vw50=
+
+Name: res/drawable/picture_emergency32x32.png
+SHA1-Digest: zy4zEZgW3rnD16RZoel1RYPckt4=
+
+Name: res/drawable-hdpi/hold_call_on.png
+SHA1-Digest: fXiHWBTGT0xWnrJnBEqSN5+Lm3c=
+
+Name: res/layout/incall_screen.xml
+SHA1-Digest: hW/TrDiEI43Bor6F1d5cCCeB4ow=
+
+Name: res/layout/htc_list_item_dropdown_w_des.xml
+SHA1-Digest: cFOzHLlxdU1ei7GJMGdUkrb0JDQ=
+
+Name: res/xml/htc_feature_plugin_htc_advanced_setting.xml
+SHA1-Digest: XZvfAmQ97Bh4WWSp6MFgW87v570=
+
+Name: res/drawable-hdpi/phone_icon_headset_disable.png
+SHA1-Digest: xBLDHDYBvvv73DUIbNna+5xQmJI=
+
+Name: res/drawable-hdpi/common_search_select_btn_on.9.png
+SHA1-Digest: qvZd8DmznflVaYp6H/lSvyyGOdc=
+
+Name: res/drawable-hdpi/stat_sys_phone_call_forward.png
+SHA1-Digest: mzcWJ4AoUIiMT2raMiTGK4Bhi5Y=
+
+Name: res/drawable/htc_dial_button.xml
+SHA1-Digest: S11ubgZixxt9mh8SBeJuW/JNWrU=
+
+Name: res/layout/single_selection.xml
+SHA1-Digest: +y6LiySUUJYBgX4rQnEInla2VY0=
+
+Name: res/layout/htc_lockscreen_reminder.xml
+SHA1-Digest: +zPppvC1zOa9u2IdsQyIq6W5UJs=
+
+Name: res/drawable/green_divider.png
+SHA1-Digest: BpGFpUm2Zf/t6CI9h6gBrEnzupE=
+
+Name: res/layout/enable_fdn_screen.xml
+SHA1-Digest: XhpG1yJ4JfK+G2N82auGrmwsT7c=
+
+Name: res/layout-hdpi/ongoing_call_notification_top.xml
+SHA1-Digest: nmjN6VO5N/CE5rln2iNXs3/hdB0=
+
+Name: res/drawable-hdpi/icon_menu_bluetooth.png
+SHA1-Digest: K2CY4KRHXZ1HE/Jqo3wyjr9xXGY=
+
+Name: res/drawable/phone_keypad_btn.xml
+SHA1-Digest: DkwUWOjOtNoFZbCzHP82TfPN9ZI=
+
+Name: res/drawable-hdpi/notification_photo_shadow.png
+SHA1-Digest: 7mCaIjO1foBJfD1ZIhF7zOejIKk=
+
+Name: res/layout/htc_retry_hbpcd_handler.xml
+SHA1-Digest: 5sJ4D2hgg0FSTP6WXBSEGgZNT5w=
+
+Name: res/drawable-hdpi/phone_icon_bluetooth_headset_on.png
+SHA1-Digest: i+9SsIO9oLhkoVUtJ5Wpa0rnwGQ=
+
+Name: res/xml/advanced_settings.xml
+SHA1-Digest: +6KjsAFQiEu1oKBKMOECtJnaLIg=
+
+Name: res/drawable-hdpi/icon_menu_hold_off.png
+SHA1-Digest: My/MWbJvT5GhA29u9juRpx1cx+o=
+
+Name: res/drawable-hdpi/contacts_sp_rest.png
+SHA1-Digest: feYGsLOWgLJ1xPvaGgR34Fjjqco=
+
+Name: res/layout/eri_text_layout.xml
+SHA1-Digest: wJmmr50nhmTQfPzUrbaRephsI4U=
+
+Name: res/xml/kddi_options.xml
+SHA1-Digest: /DpWCUnogqL3m8Vvty2D65MKL8c=
+
+Name: res/drawable-hdpi/phone_btn_answer_rest.9.png
+SHA1-Digest: x7Dyi+sJx/Aak1Fh442Ij9nFKx0=
+
+Name: res/drawable-hdpi/stat_sys_cw_connected.png
+SHA1-Digest: Yc74Ti/bbL53CgHgMk7s0nkj7A4=
+
+Name: res/xml/call_feature_setting.xml
+SHA1-Digest: 8R/lqUyq/iJz5WzLW81eaN93sQE=
+
+Name: res/color/button_text.xml
+SHA1-Digest: BxGuMbPHPXs2/1exXEzHixZixJo=
+
+Name: res/drawable/common_icon_merge_call.xml
+SHA1-Digest: xuquF6yTb/y4SDy4fzb7mTeIpBU=
+
+Name: res/drawable-hdpi/phone_btn_answer_selected.9.png
+SHA1-Digest: aNYYhUnUgW3g3YyXwsRPQ6Oos2w=
+
+Name: res/drawable/common_icon_hide_keypad.xml
+SHA1-Digest: GZLVms2gtgJtoNm869rcokQJxf0=
+
+Name: res/layout/htc_nbpcd_edit_idd.xml
+SHA1-Digest: 3Fxc4+hrhKaoT0uPLFos0q+sJdo=
+
+Name: res/layout/htc_lockscreen_person_info.xml
+SHA1-Digest: EPoUM7+eJxk6TKmml5dN/g+xU/k=
+
+Name: res/xml/htc_call_barring_options.xml
+SHA1-Digest: Hf76h0MKE/WieF1sKTtfWd1/frs=
+
+Name: res/drawable-hdpi/all_people_rest.png
+SHA1-Digest: nfFh2k+p4PJFZtYA3ur1qbCqeUM=
+
+Name: res/layout/pref_dialog_editphonenumber_with_time.xml
+SHA1-Digest: fqU9NcoyWHdeIqG7sjqcl0qKVzU=
+
+Name: res/drawable-hdpi/phone_btn_end_rest.9.png
+SHA1-Digest: 920RmLeGRenesHD05idnjDzywwg=
+
+Name: res/drawable-hdpi/phone_accumulator_bg.9.png
+SHA1-Digest: O1gkYizd2xT8RzxKMI02Mdv+Ymg=
+
+Name: res/layout/ota_reboot.xml
+SHA1-Digest: MC1zrqrmRC2utWCpRL4fbXXO7MA=
+
+Name: res/layout/htc_end_call_handler.xml
+SHA1-Digest: 1KeYTMFaTWWMOtXyGKPYvsc23tM=
+
+Name: res/drawable-hdpi/phone_btn_end_selected.9.png
+SHA1-Digest: ecwBrlCrS+/R0GCyQaL5R0qfyqc=
+
+Name: res/layout/network_unlock_screen.xml
+SHA1-Digest: 0vHvYe7+JGtYklTKTSG43UNB2Ds=
+
+Name: res/drawable-hdpi/phone_photo_shadow.png
+SHA1-Digest: 4vIg237xzUQWy73Mz04jObVRcoE=
+
+Name: res/xml/gsm_umts_call_options.xml
+SHA1-Digest: R+SWkU4sMYBKW1oIR6pBuHh51r0=
+
+Name: res/layout/htc_call_defer_reminder.xml
+SHA1-Digest: gFG0KM+eWKtvX0OfFNx6wvqMlTg=
+
+Name: res/layout/htc_enhanced_plus_code_prompt_dlg.xml
+SHA1-Digest: V2WFVtN9cKiXX8E19ovq/4xGX/E=
+
+Name: res/drawable-hdpi/phone_btn_control_more.xml
+SHA1-Digest: tuSkD3qNxUyjQjJn79XLCbFUqhM=
+
+Name: res/drawable-hdpi/stat_apn.png
+SHA1-Digest: ZEhDTgzKuzEQZCO7onYHvZa4vKo=
+
+Name: res/drawable-hdpi/notification_btn_endcall_selected.9.png
+SHA1-Digest: vqeJaJDsmmiYpt4GNsjRSwesxHg=
+
+Name: res/drawable-hdpi/icon_menu_phone_bluetooth_headset.png
+SHA1-Digest: 74mOpM2c6IOt8kpxTjfoUm8ZXHw=
+
+Name: res/drawable/common_icon_back_to_navigator.xml
+SHA1-Digest: c8hvGiAR0dEsgJVU/+r9paNdAEM=
+
+Name: res/xml/cell_broadcast_sms.xml
+SHA1-Digest: 80TVLaXv290/Swgk/Ho0xXX5hnk=
+
+Name: res/drawable/phone_btn_acc_call.xml
+SHA1-Digest: bSETNi65yKVO2OwiBNhrTAvuS4Q=
+
+Name: res/layout/sim_import_list_entry.xml
+SHA1-Digest: yUjCHcVtpmbOKWAD+0SlaSUlQ+I=
+
+Name: res/drawable-hdpi/common_select_photo_rest.png
+SHA1-Digest: ziJrAMTKusXF4JPvU/dVIQS3H1I=
+
+Name: res/drawable-hdpi/phone_icon_headset_rest.png
+SHA1-Digest: m30wL4RL+PXjOpqXrnidSyj5My4=
+
+Name: res/layout/call_card_popup.xml
+SHA1-Digest: dnh4iuPAa+7Nd+Esjr2unYsb28I=
+
+Name: res/layout/htc_layout_list_idd.xml
+SHA1-Digest: fJ1qhuM8MX8BFcJuAdnjm0X1t1Y=
+
+Name: res/drawable-hdpi/add_call_rest.png
+SHA1-Digest: kisj6VfFrE8pJcFHJrCOgsHmrW0=
+
+Name: res/layout/dialog_ussd_response_att.xml
+SHA1-Digest: gmwyPnFfgFeLzvS+lwpw7K6thK0=
+
+Name: res/drawable-hdpi/phone_btn_answer_pressed.9.png
+SHA1-Digest: QIepYiTFqcqYSDl1N/1KkQ9ekfs=
+
+Name: res/drawable-hdpi/phone_icon_arrow_down.png
+SHA1-Digest: g1BsRvcDCc9Anwx0i9XWJmqDLMY=
+
+Name: res/drawable-hdpi/phone_icon_call.png
+SHA1-Digest: fguhnP7cvkQxA5e/rEr1hioJFM4=
+
+Name: res/layout/list_item_arrange_network.xml
+SHA1-Digest: nvQ9jaZ84IpQigGNwfMnGrQ7mws=
+
+Name: res/drawable-hdpi/icon_menu_skype_audio_call.png
+SHA1-Digest: QWfkA5Uhu+mmISMpQq5ID8wp940=
+
+Name: res/layout/htc_list_item_separator.xml
+SHA1-Digest: FeFgI1Qf+ro0bz+HMZe2xCDAQ4k=
+
+Name: res/layout/htc_dialpad.xml
+SHA1-Digest: qJdUdhZl48AsJqNZB85Hmxqa/Z4=
+
+Name: res/layout/htc_lock_screen_control_arc_incoming_call.xml
+SHA1-Digest: J6CRxc/N0LAkQ4Z8RLpOyV7tL8E=
+
+Name: res/layout/htc_list_item_text_dropdown.xml
+SHA1-Digest: LlM1kWlSrxlLUgLie2vhhvuNGVw=
+
+Name: res/drawable/common_icon_contacts_sp.xml
+SHA1-Digest: G+rmTL7WAzOykaJ8PW1t89icmtk=
+
+Name: res/layout/htc_nbpcd_add_country.xml
+SHA1-Digest: mNIT2nO9+MDsNlF6Up3N8lQGJ+M=
+
+Name: res/drawable-hdpi/htc_pin_icon_star.png
+SHA1-Digest: M4F05mMevcvnZ7TKAOVgyn0jClg=
+
+Name: res/drawable-hdpi/phone_icon_arrow_up.png
+SHA1-Digest: dHbmF5Tl0D/rHOFDb/ZGgook95Y=
+
+Name: res/drawable-hdpi/htc_pin_icon_record.png
+SHA1-Digest: gcbrnj7Y4b9aVbsipHI5UiiYHgo=
+
+Name: res/raw/robot_b.mp4
+SHA1-Digest: PqH4wozRpIbJjpIP17Lmznu3fIo=
+
+Name: res/drawable-hdpi/phone_reflection_mask_notification.png
+SHA1-Digest: 5UUs24ajATbZTyhx2ny8z2Q19ag=
+
+Name: res/layout/htc_otasp_sendkey.xml
+SHA1-Digest: VSQY4g8OSJCFvablVW/pCh/Pg00=
+
+Name: res/layout/title_bar.xml
+SHA1-Digest: RP3VccgzL7Rd5l0mvmOOLW7VTs8=
+
+Name: res/layout/calendar_event_panel.xml
+SHA1-Digest: 6XmHgNBW60oNvaKLdbETdT62Lz0=
+
+Name: res/layout/pref_dialog_editpin.xml
+SHA1-Digest: d6zYN+lLZ5n+mTu3Kp79Ky1/AAw=
+
+Name: res/drawable/phone_icon_speaker.xml
+SHA1-Digest: 6Oq5hWpiUdzp12eeac1FixSRnzU=
+
+Name: res/layout/prefer_network_list.xml
+SHA1-Digest: 9x8RoiqppceyidIRhKCSyuBzyPo=
+
+Name: res/layout/change_sim_pin_screen.xml
+SHA1-Digest: Jf6LquIKhmi3jmotiLl9JPcr2gw=
+
+Name: res/drawable-hdpi/icon_no_sim.png
+SHA1-Digest: oZB/dr2KHBM7gS4rxtZ1yM5kodI=
+
+Name: res/drawable-land-hdpi/phone_photo_frame_mask.png
+SHA1-Digest: X/oDtP4Zh6/e4HGPx7XDtGVhP+I=
+
+Name: res/drawable-hdpi/phone_btn_backspace_rest.9.png
+SHA1-Digest: TwqCwGCehxBhFD8QXUkL3FA/ufw=
+
+Name: res/drawable-hdpi/ic_dialog_call.png
+SHA1-Digest: V+go2ge2OHtdh2ZIajhd5QLdX5w=
+
+Name: res/drawable-hdpi/phone_btn_backspace_selected.9.png
+SHA1-Digest: GsvZ6MAG6tIdlm84Sn3krX+V68U=
+
+Name: res/drawable/phone_btn_call.xml
+SHA1-Digest: ZHYZ9YsUiGLvQewFqj4D7PPXFPI=
+
+Name: res/layout/call_card_person_info.xml
+SHA1-Digest: R+aCYNn4Xxq+nq+B2wDIOrogw4k=
+
+Name: res/drawable-hdpi/phone_button_acc_call_press.9.png
+SHA1-Digest: IWevEt+ctfkT0ZK+L317ybfWluQ=
+
+Name: res/xml/fdn_setting.xml
+SHA1-Digest: tqc5b0f/2D1SMWvkgCD2HCnerVI=
+
+Name: res/drawable-hdpi/icon_menu_answer_and_end.png
+SHA1-Digest: o6g42Bpf1UL6Crl7KHE4aChtLFg=
+
+Name: res/drawable-hdpi/icon_menu_skype_video_call.png
+SHA1-Digest: TGsyqAKcAXEUScMySxd1LmlifKY=
+
+Name: res/xml/htc_cdma_options.xml
+SHA1-Digest: oSM3cxNrSnPDGDPvhJvcru1R2qY=
+
+Name: res/layout/htc_vzw_conversion.xml
+SHA1-Digest: vCoTmdT30MtIqrlmR0ESF5c9CUc=
+
+Name: res/xml/sip_setting.xml
+SHA1-Digest: daw+3CgCENReW+fIXpGGHjxha/A=
+
+Name: res/drawable/phone_icon_mute.xml
+SHA1-Digest: T1FuWeJMhcGSgfPOXtIeOIwEtUE=
+
+Name: res/drawable-hdpi/speaker_on_disable.png
+SHA1-Digest: mQBjylb4hQS7kozqY2KMhidXt9U=
+
+Name: res/drawable-hdpi/htc_pin_icon_pound.png
+SHA1-Digest: D44V1yDiskzPgMgJMD9p8EYB8ig=
+
+Name: res/drawable-hdpi/icon_menu_skype_decline_call.png
+SHA1-Digest: f8nG1VR1M6rfsP1z+v3atqPE2GE=
+
+Name: res/drawable-hdpi/stat_sys_phone_call_bluetooth.png
+SHA1-Digest: Bm7fB+dc9Ht7O03xxE5goH1fLK0=
+
+Name: res/xml/htc_gsm_roaming_options.xml
+SHA1-Digest: 5LWRfkhGSZeiLMloRXlGW58AruI=
+
+Name: res/drawable-hdpi/dialer.png
+SHA1-Digest: zk/bOB0T/c7O+K/Nu2zqGV1rX+E=
+
+Name: res/drawable-hdpi/speaker_on_rest.png
+SHA1-Digest: r8Xm1M/mZIsdTIwcgR6aoHNMNz4=
+
+Name: res/drawable/htc_btn_dial_delete.xml
+SHA1-Digest: 7doeNAf4KTMxTUHDRvL1b+ybWYY=
+
+Name: res/xml/htc_cdma_callforward_options.xml
+SHA1-Digest: PafgH3c77oMxaeWe8P2VTYkFc+Y=
+
+Name: resources.arsc
+SHA1-Digest: f7CHulIwAPZDRA5u4DyEFjqZIek=
+
+Name: res/layout/skype_title_bar.xml
+SHA1-Digest: A/Knc2dVhl68LL3jTUkDEbrPT0c=
+
+Name: res/color-finger/ota_title_color.xml
+SHA1-Digest: lO1cxm1r3DwxPHrkefIms5827xQ=
+
+Name: res/drawable/common_icon_glance_volume.xml
+SHA1-Digest: A2dGrCXUV5lNkBWpsEihIZxwczg=
+
+Name: AndroidManifest.xml
+SHA1-Digest: PrTls3Norqge6vDEus2KYJ/p634=
+
+Name: res/layout/add_cellbroadcast_dialog.xml
+SHA1-Digest: otEvx2b1Hj46fpm5XnHvsxaSXzA=
+
+Name: res/xml/cell_broadcast_setting.xml
+SHA1-Digest: 4fYoq9yd/EMrrouniWfVsq8SekE=
+
+Name: res/drawable-hdpi/phone_icon_birthday.png
+SHA1-Digest: SA4C9bZIpdo7s45i6tJgAaSgBIA=
+
+Name: res/drawable-hdpi/icon_menu_merge.png
+SHA1-Digest: DvY6p/B+AE7sNYRzv2sx+B6k8IE=
+
+Name: assets/htc_cdma_roam_ring.ogg
+SHA1-Digest: OI7Z/6Y7sQkv1ec0tML68jJrmiM=
+
+Name: res/drawable-hdpi/icon_menu_call_defer.png
+SHA1-Digest: +FXwbQlCKTFbtTkZng31WrwMe28=
+
+Name: res/xml/call_feature_setting_htc.xml
+SHA1-Digest: XEGrP0eotKjAGEGhlKUjmMZY0z8=
+
+Name: res/layout/cs_ps_switch.xml
+SHA1-Digest: l7ZjPQd4GttNuw83CZj/Tr/lJnk=
+
+Name: res/xml/network_setting_htc.xml
+SHA1-Digest: zYPFDjJwdW8m7rstk1SaQQkcCps=
+
+Name: res/drawable-hdpi/simlock_cancel_press.9.png
+SHA1-Digest: lAIn/LrnW9g0H5LfBtW5Ic5imUE=
+
+Name: res/drawable-hdpi/common_search_select_btn_disable.9.png
+SHA1-Digest: EqRi+arhzO9PPpWrrAqlW/jtdrQ=
+
+Name: res/drawable-hdpi/ic_launcher_phone.png
+SHA1-Digest: 1b2lWHM4ueP3ETJwKpNXPyc2ym8=
+
+Name: res/layout/htc_nbpcd_edit_country.xml
+SHA1-Digest: UJDYYbyIM7ml1Dfsp6pnqibEwbU=
+
+Name: res/drawable-hdpi/stat_sys_phone_call_rec.png
+SHA1-Digest: +061bf5Tj8CpBqGOVEoI57OqAqs=
+
+Name: res/xml/htc_cdma_global_roaming_options.xml
+SHA1-Digest: tL05nG55ip11fECBuqXrfhRykwo=
+
+Name: res/xml/htc_enhanced_plus_code_dialing.xml
+SHA1-Digest: roZPwPASkOicLzaWKnE4b/AtBdc=
+
+Name: res/layout/htc_lock_screen_control.xml
+SHA1-Digest: s8SeeMWiZyRex54GFPPcF+9saFg=
+
+Name: res/layout/track_list_item.xml
+SHA1-Digest: 5G9+t+zMR99tSVIPqvY24BKxisU=
+
+Name: classes.dex
+SHA1-Digest: DIUpcdG9SWnjFXRisEK/+VChzqc=
+
+Name: res/layout/dialog_ussd_response.xml
+SHA1-Digest: Edd5Xk5N4EIkQyrG1KWx49Zg/1k=
+
+Name: res/drawable-hdpi/skype_blue.png
+SHA1-Digest: 0vCGzWLHsv0wNtSPc8jLtfkBb9U=
+
+Name: res/xml/htc_cdma_service.xml
+SHA1-Digest: KM0JsFbgepgPhs2mRTDJv9MLedc=
+
+Name: res/drawable-hdpi/phone_icon_addcontact_disabled.png
+SHA1-Digest: 7Ay6QDlPSRoEyj6O75BRVMogL/0=
+
+Name: res/drawable-hdpi/phone_icon_bluetooth_headset_disable.png
+SHA1-Digest: PBLdnRKORqKSJkkx65x8DrI2GtY=
+
+Name: res/drawable-hdpi/common_search_select_btn_selected.9.png
+SHA1-Digest: /tL0weF8tPLXbjiL+P6A/RHdupM=
+
+Name: res/layout/edit_fdn_contact_screen.xml
+SHA1-Digest: zp4D6ws04Q+NZHblBtTvMiolxGA=
+
+Name: res/drawable-hdpi/icon_menu_swap.png
+SHA1-Digest: 65YVlVAegNoWP3i99en54xH8EwI=
+
+Name: res/drawable-hdpi/icon_menu_mute.png
+SHA1-Digest: XoCN9F/RS57ZaOSJLy+Gjl6Rk4w=
+
+Name: res/drawable-hdpi/end_held_call_rest.png
+SHA1-Digest: CiiTCf+s+pzMRb88c4agxIcngeA=
+
+Name: res/layout/htc_call_control_panel.xml
+SHA1-Digest: PU2hHB7UYYiPvcrNhLogCv6Ty4g=
+
+Name: res/layout/network_list_item.xml
+SHA1-Digest: sBwRKfrZVxpGZeUmokbdyCDaWzs=
+
+Name: res/layout/fake_phone_activity.xml
+SHA1-Digest: CiW3eYZf5uueeXGdPTA0kY4x9LY=
+
+Name: res/drawable/icon_incall_ongoing.png
+SHA1-Digest: kBNlTsJ/iOWDnAPRAMYZDWkBArc=
+
+Name: res/drawable-hdpi/icon_menu_mute_ring.png
+SHA1-Digest: cVFVasOPIee1L/Zneua8Wmg6xuw=
+
+Name: res/layout/dtmf_twelve_key_dialer.xml
+SHA1-Digest: h2y2ygFbROpd/jNv3pPTKuunfJY=
+
+Name: res/drawable-hdpi/notification_btn_icon_call.png
+SHA1-Digest: 34svIm3cnL2gBkz5kd2fHU9ml9o=
+
+Name: res/drawable-hdpi/icon_contact_picker_rest.png
+SHA1-Digest: Fgnz/7Ex5fHM80wombH99YU2naI=
+
+Name: res/xml/sip_settings_category.xml
+SHA1-Digest: pKknZzN1Grhqb4GJTUwi31EmZdA=
+
+Name: res/drawable/lockscreen_bigicon_voicemail.png
+SHA1-Digest: tszB8JzUj2IHzvtKQsPZMkvrzXM=
+
+Name: res/drawable/phone_icon_contactcard.xml
+SHA1-Digest: 6yBdcI1eWO4QZUge9xyV/YyCrLY=
+
+Name: res/drawable-hdpi/icon_menu_send_text.png
+SHA1-Digest: 7tO23UMoTYuB+PV/UvxtEAqUPk0=
+
+Name: res/drawable-hdpi/htc_pin_asset_rest.9.png
+SHA1-Digest: TbKEN+7VXfy5fMKNJdewQuPAmMo=
+
+Name: res/drawable/phone_icon_end_held_call.xml
+SHA1-Digest: hvW5oaU30js1ovAH0O5jFsVSf1o=
+
+Name: res/layout/cmd_bar_2.xml
+SHA1-Digest: ggYw/X/L8TYTDz7YQhiINMoqaR8=
+
+Name: res/drawable-hdpi/phone_btn_end_disable.9.png
+SHA1-Digest: +i/1WKk2Guy5ySFgbTdKOEb/suw=
+
+Name: res/drawable-hdpi/icon_menu_add_call.png
+SHA1-Digest: K0ETJsT6bkJRA/qiN6l2xxWW20E=
+
+Name: res/drawable-hdpi/phone_notification_hold.png
+SHA1-Digest: 3x3Y1vkKo4KD2eDu3fV9QkxoMIE=
+
+Name: res/layout/htc_cdma_background_otasp.xml
+SHA1-Digest: ZZCo1S0XPVJctJKcPFYFjd6FMfY=
+
+Name: res/layout/htc_keyguard_cmd_bar.xml
+SHA1-Digest: mu5ZN2fEEgEoKJHEuUJWyHo2NHQ=
+
+Name: res/drawable-hdpi/icon_menu_voice_record.png
+SHA1-Digest: IWsciLNc6p/PauUpuREItnnsZtk=
+
+Name: res/drawable-hdpi/lockscreen_notification_indicator_missedcall.p
+ ng
+SHA1-Digest: E0jk+Sz4IPodAzCN2g9xKb3VGrU=
+
+Name: res/drawable/phone_btn_ok.xml
+SHA1-Digest: Y95HxfzOshDMpxjpyrOpKTCh4sc=
+
+Name: res/drawable-hdpi/ic_launcher_sip_call.png
+SHA1-Digest: pX9Q2bMViko+RwMmh9pWsFJsk3g=
+
+Name: res/drawable-hdpi/phone_photo_emergency.png
+SHA1-Digest: xfFSGwZoxIXydP+UjATQfIM1KBI=
+
+Name: res/drawable/toolbar_button.xml
+SHA1-Digest: YxROlIq1nwgZ399AEKkXr7p8d8o=
+
+Name: res/drawable-hdpi/notification_btn_endcall_rest.9.png
+SHA1-Digest: BD4zs8hUhroSbFAsZN96lVAKgv8=
+
+Name: res/drawable-hdpi/phone_btn_bg.9.png
+SHA1-Digest: mOfpyzRdA5C06KSDP7zK2wqNbPY=
+
+Name: res/xml/cdma_options.xml
+SHA1-Digest: s9G66/rWEodisVbPip8tFD5KG68=
+
+Name: res/drawable-hdpi/simlock_ok_selected.9.png
+SHA1-Digest: YtfhHzup7NTZ9Rj+ksplN4Awhug=
+
+Name: res/drawable-hdpi/end_held_call_disable.png
+SHA1-Digest: 8tDMv4fXPQ1dl1PXkE/B/D0hIyk=
+
+Name: res/xml/sip_advanced_edit.xml
+SHA1-Digest: uId2HzxvcBG106KqM7i6lDtzB10=
+
+Name: res/drawable-hdpi/common_icon_glance_volume_on.png
+SHA1-Digest: 17EhPFv5EvEPbuxT9nv/BgIu698=
+
+Name: res/layout/ongoing_call_notification_top.xml
+SHA1-Digest: e0UogTjS8A0r05/CUf5vAc6szts=
+
+Name: res/drawable/common_icon_callhistory.xml
+SHA1-Digest: f1Ng4PXtvGnNgQlh2Q1fsiNYNRI=
+
+Name: res/xml/htc_cdma_additional_options.xml
+SHA1-Digest: ycUETKv4/fhaGaGkhnE+dxy8utc=
+
+Name: res/layout/ongoing_call_notification.xml
+SHA1-Digest: 2LMP7pGIDI2Q2YTeYG6ev/tga28=
+
+Name: res/drawable-hdpi/hold_call_disable.png
+SHA1-Digest: mkYNJCFKqirmuU+UXcpED0R/AmE=
+
+Name: res/xml/htc_cdma_roaming_options.xml
+SHA1-Digest: 2e4IN+cQdy3tl3gWSodgsLDdrrE=
+
+Name: res/layout/sip_settings_ui.xml
+SHA1-Digest: V2XZxoxcEfQ74VWBqOf5T6V/ib0=
+
+Name: res/drawable-land-hdpi/phone_photo_frame.png
+SHA1-Digest: uCYdpjbJwy33iL79eLk+I4kqjfw=
+
+Name: res/drawable-hdpi/all_people_on.png
+SHA1-Digest: bReHQA3CD7/euvINFPuE3gp8vzo=
+
+Name: res/drawable-hdpi/common_icon_action_contact_disable.png
+SHA1-Digest: 2IlUQzfaBYy+hVUV6klQHNSxhAU=
+
+Name: res/color-finger/dialer_button_text.xml
+SHA1-Digest: EQfMAY1C2lUhL+s/JvT6uJbW2Go=
+
+Name: res/xml/cdma_call_options.xml
+SHA1-Digest: qsWvsWO/QgoTG20ONUWombDx3KY=
+
+Name: res/xml/gsm_umts_pure_call_options.xml
+SHA1-Digest: oIRAmL29+LFkiHLH+Yan3tWO40o=
+
+Name: res/drawable/picture_emergency25x25.png
+SHA1-Digest: 9BU45SOxWw1EpQTormIXzpx5jIo=
+
+Name: res/layout/emergency_dialer_keypad.xml
+SHA1-Digest: WedOpCnV0D+Hbfr9DutDTM2pwVU=
+
+Name: res/drawable/phone_btn_control_more.xml
+SHA1-Digest: yO0uUaXyiV98E509GUzn3h7VljI=
+
+Name: res/layout/htc_cdma_incall_info.xml
+SHA1-Digest: F6dOEK7BSeBFgaoPWt4C3GhwIZQ=
+
+Name: res/drawable-land-hdpi/phone_photo_shadow.png
+SHA1-Digest: H7eF/Za9bESuay6jTS0FQvd5cJ0=
+
+Name: res/layout/htc_nbpcd_add_idd.xml
+SHA1-Digest: eHl3FHegI1u3vM8KOkGf/46b/Lk=
+
+Name: res/drawable-hdpi/stat_sys_vp_phone_call_bluetooth.png
+SHA1-Digest: bx5CcxMNesJl1s2ReNZK4pUWoi0=
+
+Name: res/layout/htc_call_defer_custom_msg.xml
+SHA1-Digest: JzVSChy4kY2lHGaY65fnm7Zg194=
+
+Name: res/drawable-hdpi/common_search_select_btn_rest.9.png
+SHA1-Digest: 4GfwguSScGR6gyc4/fpCOKjjg3E=
+
+Name: res/drawable-hdpi/notification_btn_endcall_press.9.png
+SHA1-Digest: Xja9S8++8WEaFKPhUJigVk2T9hY=
+
+Name: res/drawable-hdpi/speaker_on_on.png
+SHA1-Digest: pF/561KJ3Vjx/z6yQJBVm7qRxUo=
+
+Name: res/layout/htc_cdma_dialog.xml
+SHA1-Digest: oU0DkiHVAxqpKlM43A/zfihs+yU=
+
+Name: res/drawable-hdpi/icon_menu_hold.png
+SHA1-Digest: beF8Fw+LCn7hSFFGTH/aAdQSJOM=
+
+Name: res/drawable-hdpi/phone_default_incall.png
+SHA1-Digest: 7GMOMAjdm3Wede2LyK4w6U/PKLw=
+
+Name: res/drawable-hdpi/common_b_button_on.9.png
+SHA1-Digest: E2de8emsqlA1dpRtNlpa8LZ0F1A=
+
+Name: res/layout/htc_nbpcd_setting.xml
+SHA1-Digest: RrLaW4iaLkEci1Y/kAMhLcTmRmA=
+
+Name: res/layout/fdn_manipulate_menu.xml
+SHA1-Digest: Uv+RhUCw9EIR2Q8X5vtDvTKVZYY=
+
+Name: res/drawable-hdpi/stat_sys_phone_call_bluetooth_rec.png
+SHA1-Digest: 9vrbWza4eInwy/FHnz0BC2++v0Y=
+
+Name: res/drawable-hdpi/phone_btn_backspace_pressed.9.png
+SHA1-Digest: KJKweHdz5eRbBMZQQBLkZEISuKo=
+
+Name: res/xml/cdma_call_options_common.xml
+SHA1-Digest: mR06uIwUoOu2wdImgwmxDaG4rOo=
+
+Name: res/layout/emergency_dialer.xml
+SHA1-Digest: q6ROmV5FS7FaZcswUOIYY7IU0R0=
+
+Name: res/drawable-hdpi/phone_icon_backspace_pressed.png
+SHA1-Digest: PDIlQ0HRkbyhDr9zqIABU2LOH2w=
+
+Name: res/drawable-hdpi/mute_rest.png
+SHA1-Digest: K7EIlt7P5LKgJDvT6z05hncp07Y=
+
+Name: res/menu/menu.xml
+SHA1-Digest: dnGW4TgadW7JXn5RVj5LlXt3BPI=
+
+Name: res/drawable/dialog_bg_calling_via.9.png
+SHA1-Digest: Y+FzxGLNWEvR7o75Owx7kbZfOTo=
+
+Name: res/layout/keyguard_screen_sim_pin.xml
+SHA1-Digest: gNcVrDO/T2G/qseLx6MTqQapelA=
+
+Name: res/drawable-hdpi/phone_icon_backspace_rest.png
+SHA1-Digest: h+Qqozl+4dqFYpP+TYBND/Fc0rc=
+
+Name: res/drawable-hdpi/simlock_ok_press.9.png
+SHA1-Digest: RgwjVlhNwOyAykrmKwf/8oFFpVM=
+
+Name: res/drawable-hdpi/stat_notify_cpa.png
+SHA1-Digest: 2Z3bcF7PJbRbvTD3gZeIGM2Hz5E=
+
+Name: res/drawable-hdpi/stat_sys_vp_phone_call_on_hold.png
+SHA1-Digest: BEp64+WrWUniykv9dY2i79I1QSo=
+
+Name: res/layout/network_unlock_successful.xml
+SHA1-Digest: UK7UGHfBEZi9nWs6uGjKmdTn/hQ=
+
+Name: res/drawable/stat_notify_cpa.xml
+SHA1-Digest: r7xwurBccHmTgjSuY19fiKDEbe4=
+
+Name: res/drawable-hdpi/hold_call_rest.png
+SHA1-Digest: Q6c3pKa+CTfSGzFxLOVTrb3xKgo=
+
+Name: res/drawable-hdpi/stat_sys_phone_call_on_hold.png
+SHA1-Digest: T3EtVZJ3hVg4RCRlOusrBQOKoCc=
+
+Name: res/drawable-hdpi/icon_menu_ignore.png
+SHA1-Digest: oRS1NSbrU0qr7piHHacvTO2RV70=
+
+Name: res/drawable-hdpi/phone_photo_frame_mask.png
+SHA1-Digest: MYPqI8ig37h7yXN7ZdVIILaNu6I=
+
+Name: res/drawable-hdpi/phone_bg_birthday.9.png
+SHA1-Digest: 3QSF8qJpKm1ezM2krsMw7+1TCoU=
+
+Name: res/drawable/phone_btn_contorl.xml
+SHA1-Digest: Zn8bwTzy4ybPZafrU7Lw7vtPI1M=
+
+Name: res/layout-land/title_bar.xml
+SHA1-Digest: 34Cl2VgVYrO5S9ThL5k/aCOuovU=
+
+Name: res/drawable-hdpi/icon_menu_headset.png
+SHA1-Digest: Nm++6uobi+XEAveg73l+96ysPhs=
+
+Name: res/layout/rearrange_network_list.xml
+SHA1-Digest: IDavhJ4gD02UBD+CYuJqfG6zVCQ=
+
+Name: res/layout/get_pin2_screen.xml
+SHA1-Digest: E0n2BpWnyODVIIW05W+qhYLS/uw=
+
+Name: res/drawable/common_icon_toggle_keypad.xml
+SHA1-Digest: zYjaUVjapKXzcbl/QX1t+Vp1bBI=
+
+Name: res/layout/sim_missing.xml
+SHA1-Digest: CZoJX53AlHTavs9w97Fyqme12NU=
+
